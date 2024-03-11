@@ -1,1 +1,1 @@
-# first-java-program
+# my-first-program-in-java
